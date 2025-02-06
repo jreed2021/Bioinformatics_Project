@@ -1,0 +1,8 @@
+ete3
+biopython
+numpy
+scipy
+pandas
+matplotlib
+six
+pyqt5
