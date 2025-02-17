@@ -1,4 +1,4 @@
-# Fiverr_Bioinformatics_Project
+# Bioinformatics_Project
 # Phylogenetic Tree Automation with Python & PowerShell
 
 ## 🛠️ Project Overview
@@ -17,3 +17,13 @@ This project sets up a **Python virtual environment** and automates **phylogenet
 1. **Run PowerShell script to set up the environment**:
    ```powershell
    .\setup_virtual_env.ps1
+   
+## IQ-TREE Analysis
+This project also uses IQ-TREE for phylogenetic analysis. 
+
+### Installation
+IQ-TREE is **not a Python package** and must be installed separately.
+Download it from [GitHub](https://github.com/iqtree/iqtree2) or the [official IQ-TREE site](http://www.iqtree.org/).
+
+Once installed, ensure IQ-TREE is accessible from the command line.
+
